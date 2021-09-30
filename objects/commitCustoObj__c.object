@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Field2__c</fullName>
+        <externalId>false</externalId>
+        <label>Field2</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
+        <fullName>Filed3__c</fullName>
+        <externalId>false</externalId>
+        <label>Filed3</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
+        <fullName>LabelPilot__c</fullName>
+        <externalId>false</externalId>
+        <label>LabelPilot</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
+</CustomObject>
