@@ -2,6 +2,7 @@
     <version>52.0</version>
     <types>
         <members>A0</members>
+        <members>A000</members>
         <members>A00000</members>
         <members>A00000AADmnDec</members>
         <members>A00000ABdkKerh</members>
@@ -9,6 +10,22 @@
         <members>A00000AHZyzx</members>
         <members>A00000AJVASkfY</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AppSwitcher</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
+        <members>Case.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
+        <members>standard__AllTabSet</members>
+        <name>CustomApplication</name>
     </types>
     <types>
         <members>Account.Active__c</members>
