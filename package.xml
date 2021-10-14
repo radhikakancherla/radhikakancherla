@@ -9,6 +9,8 @@
         <members>A00000AFBXiHuNujdu</members>
         <members>A00000AHZyzx</members>
         <members>A00000AJVASkfY</members>
+        <members>A0001</members>
+        <members>A15</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -25,6 +27,7 @@
     </types>
     <types>
         <members>standard__AllTabSet</members>
+        <members>standard__Sales</members>
         <name>CustomApplication</name>
     </types>
     <types>
