@@ -1,5 +1,6 @@
 public Class A0
 {
+
 //hello autorabit
 // hello! 
 //Hello !!!
@@ -7,14 +8,15 @@ public Class A0
 public Account createAccount(String name)  //method to create account
 {//comment source line4 srcmodififylast
 Account QDTest= new Account();
+
 Account a01231111112331= new Account();
+
 
 //test
 Account a0123111111233= new Account();
 
+
 //tets
-
-
 
 
 
@@ -27,7 +29,9 @@ return a0123111111; //line7 src modifylast1
 
 
 //a11233434cxbcbvcb
+
 //new Tes
+
 //ew
 
 
