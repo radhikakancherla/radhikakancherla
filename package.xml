@@ -4,7 +4,11 @@
         <members>A01234567</members>
         <members>A0123678</members>
         <members>A100</members>
+        <members>A15</members>
+        <members>A30</members>
         <members>ADDED</members>
+        <members>Apex1</members>
+        <members>BusinessClassTest</members>
         <name>ApexClass</name>
     </types>
 </Package>
