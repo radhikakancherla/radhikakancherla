@@ -8,6 +8,10 @@
         <members>A30</members>
         <members>ADDED</members>
         <members>Apex1</members>
+        <members>AppCls02</members>
+        <members>ApxClass001</members>
+        <members>ApxCls1</members>
+        <members>BusinessClass</members>
         <members>BusinessClassTest</members>
         <name>ApexClass</name>
     </types>
