@@ -2,6 +2,8 @@
     <version>52.0</version>
     <types>
         <members>A0</members>
+        <members>A000</members>
+        <members>A00000</members>
         <members>A01234567</members>
         <members>A0123678</members>
         <members>A100</members>
