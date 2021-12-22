@@ -12,7 +12,6 @@ sai231111.Name = name;
 //new11111111jhgj
 //dsdsd
 //ee
-//weghrtjkljkl
 return sai231111;
 }
 }
