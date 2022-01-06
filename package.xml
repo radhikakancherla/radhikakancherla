@@ -13,6 +13,7 @@
         <members>A0001</members>
         <members>A036</members>
         <members>A15</members>
+        <members>newClass</members>
         <name>ApexClass</name>
     </types>
     <types>
