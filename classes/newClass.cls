@@ -4,5 +4,6 @@ public class newClass {
 //line3
 //line4      newly added comments for line4
 //line5
+//[-line7 del test-]{+line7 add test+}
     
 }
