@@ -28,6 +28,60 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>ApexPage</members>
+        <members>ApexPage5</members>
+        <members>skuid__AuthProviderDetail</members>
+        <members>skuid__ClonePage</members>
+        <members>skuid__CredentialsManagement</members>
+        <members>skuid__DSOProfilePermissions</members>
+        <members>skuid__DataSourceDetail</members>
+        <members>skuid__DataSourceDetailV2</members>
+        <members>skuid__DataSourceFieldDetail</members>
+        <members>skuid__DataSourceObjectDetail</members>
+        <members>skuid__DataSources</members>
+        <members>skuid__DesignSystems</members>
+        <members>skuid__EditDesignSystem</members>
+        <members>skuid__EditTheme</members>
+        <members>skuid__ExportData</members>
+        <members>skuid__FeedbackManager</members>
+        <members>skuid__Import</members>
+        <members>skuid__ImportStatus</members>
+        <members>skuid__Include</members>
+        <members>skuid__LabelDependencies</members>
+        <members>skuid__Labels</members>
+        <members>skuid__LightningLauncher</members>
+        <members>skuid__NewPage</members>
+        <members>skuid__PageAssignments</members>
+        <members>skuid__PageBuilder</members>
+        <members>skuid__PageList</members>
+        <members>skuid__PageXMLEdit</members>
+        <members>skuid__RefreshPages</members>
+        <members>skuid__SkuidCentral</members>
+        <members>skuid__SkuidSettings</members>
+        <members>skuid__Social</members>
+        <members>skuid__ThemelessPage</members>
+        <members>skuid__Themes</members>
+        <members>skuid__Ui</members>
+        <members>skuid__UploadImage</members>
+        <members>skuid__VFSessionId</members>
+        <members>skuid__ViewReport</members>
+        <members>skuid__oauthcallback</members>
+        <members>skuid__oauthproxy</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>AccountTrigger1</members>
+        <members>ContactTrigger1</members>
+        <members>Leadtrigger1</members>
+        <members>skuid__Attachment</members>
+        <members>skuid__Image</members>
+        <members>skuid__Page</members>
+        <members>skuid__PageAssignment</members>
+        <members>skuid__PageVersion</members>
+        <members>skuid__User</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>
@@ -42,6 +96,28 @@
     </types>
     <types>
         <members>ARIndexCmp</members>
+        <members>AuraComponent5</members>
+        <members>AutoComponenent2</members>
+        <members>DesignSystems</members>
+        <members>Launcher</members>
+        <members>LwcTest1</members>
+        <members>PageAssignments</members>
+        <members>PageComposer</members>
+        <members>PageList</members>
+        <members>SkuidCentral</members>
+        <members>SkuidSettings</members>
+        <members>Ui</members>
+        <members>apiDebugRequested</members>
+        <members>event</members>
+        <members>mobilepagebuilder</members>
+        <members>oauthcallback</members>
+        <members>oauthproxy</members>
+        <members>page</members>
+        <members>pageAssignment</members>
+        <members>pagebuilder</members>
+        <members>scripts</members>
+        <members>skuidtemplate</members>
+        <members>teleporter</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <types>

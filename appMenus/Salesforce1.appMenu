@@ -2,7 +2,7 @@
 <AppMenu xmlns="http://soap.sforce.com/2006/04/metadata">
     <appMenuItems>
         <name>EinsteinInsights</name>
-        <type>StandardAppMenuItem2</type>
+        <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
         <name>Feed</name>
@@ -10,7 +10,7 @@
     </appMenuItems>
     <appMenuItems>
         <name>MyDay</name>
-        <type>StandardAppMenuItem</type>
+        <type>StandardAppMenuItem45</type>
     </appMenuItems>
     <appMenuItems>
         <name>Dashboards</name>
@@ -50,10 +50,6 @@
     </appMenuItems>
     <appMenuItems>
         <name>LightningInstrumentation</name>
-        <type>StandardAppMenuItem</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>LightningSchedulerSetupAssistant</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
