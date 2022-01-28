@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Afield__c</fullName>
+        <externalId>false</externalId>
+        <label>Afield</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>ECOBjField1__c</fullName>
+        <description>test6789</description>
+        <externalId>false</externalId>
+        <label>ECOBjField1</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>EaField__c</fullName>
+        <externalId>false</externalId>
+        <label>EaField</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>Pl3__c</fullName>
+        <description>Test new678111</description>
+        <externalId>false</externalId>
+        <label>Pl3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+</CustomObject>

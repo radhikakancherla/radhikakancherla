@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Field2__c</fullName>
+        <description>Test sai kumar @#$%^&amp;*()_+-=?&gt;&lt;,./&quot;:;&apos;\][}{~!</description>
+        <externalId>false</externalId>
+        <label>Field2</label>
+        <length>7</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Field3__c</fullName>
+        <description>sai phone symbol test 📞 and edit 📞</description>
+        <externalId>false</externalId>
+        <label>Field3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>Field4__c</fullName>
+        <externalId>false</externalId>
+        <label>Field4</label>
+        <length>9</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Field</label>
+        <length>8</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+</CustomObject>
