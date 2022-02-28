@@ -18,5 +18,10 @@ public class BusinessClass {
         Integer c;
         c = a*b;
     }
+    
+     //test method multiply   tt
+    Public void multiply2(Integer a ,integer b){
+        Integer c = a*b;
+    }
 
 }
