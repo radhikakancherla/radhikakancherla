@@ -1,20 +1,17 @@
 public Class A0
 {
-//hello autorabit
-// hello! 
-//Hello !!!
-//Hello !!!a
 public Account createAccount(String name)  //method to create account
-{//comment  line4 srcmodififylast
+{//comment source line4 srcmodififylast
 Account QDTest= new Account();
 Account a01231111112331= new Account();
 Account a0123111111233= new Account();
 Account a0123111111= new Account(); //commentsource line2 modify1
 a0123111111.Name = name; //line3
-//a211111111111111111111 nj
-//a1123bcbvcbbbb
-//new Tes kkj
-//mm
 return a0123111111; //line7 src modifylast1
+//a2111111111111111111111111a211111111111111
+//007111111111
+//vcxvxvbcvbcvb
+//kjhgf
+//iugfds
 }
 }
