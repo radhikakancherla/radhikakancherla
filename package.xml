@@ -13,13 +13,20 @@
         <members>A00000ASDXlkQJKQ</members>
         <members>A00000UipcOVCKCqWy</members>
         <members>A0001</members>
+        <members>A01234567</members>
+        <members>A0123678</members>
         <members>A036</members>
         <members>A100</members>
         <members>A15</members>
         <members>A30</members>
+        <members>ADDED</members>
+        <members>Apex1</members>
         <members>AppCls02</members>
         <members>ApxClass001</members>
         <members>ApxCls1</members>
+        <members>BusinessClass</members>
+        <members>BusinessClassTest</members>
+        <members>newClass</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -33,6 +40,10 @@
     <types>
         <members>Case</members>
         <name>AssignmentRules</name>
+    </types>
+    <types>
+        <members>ARIndexCmp</members>
+        <name>AuraDefinitionBundle</name>
     </types>
     <types>
         <members>standard__AllTabSet</members>
