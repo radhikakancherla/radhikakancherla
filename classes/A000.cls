@@ -9,8 +9,6 @@ sai231111.Name = name;
 //NewPR1ssvxcvcvcvcv11
 //upodarevcxvxcbcbcbcnvvbnvbnbmbmb
 //new1233asfdfdsfdsgfdgvxcvxcv
-//new11111111jhgj
-//dsdsd
 return sai231111;
 }
 }
