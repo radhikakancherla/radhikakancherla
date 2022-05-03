@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>52.0</version>
+    <version>53.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -118,17 +118,49 @@
         <members>Accobj4__c.Field1__c</members>
         <members>Accobj4__c.Field2__c</members>
         <members>Account.AccountLookUpField__c</members>
+        <members>Account.AccountNumber</members>
+        <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
+        <members>Account.AnnualRevenue</members>
         <members>Account.AutorabitExtId__c</members>
+        <members>Account.BillingAddress</members>
+        <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
+        <members>Account.DandbCompanyId</members>
         <members>Account.Date_of_End__c</members>
+        <members>Account.Description</members>
+        <members>Account.DunsNumber</members>
+        <members>Account.Fax</members>
+        <members>Account.Industry</members>
+        <members>Account.Jigsaw</members>
         <members>Account.MyCoolCheckBox__c</members>
+        <members>Account.NaicsCode</members>
+        <members>Account.NaicsDesc</members>
+        <members>Account.Name</members>
+        <members>Account.NumberOfEmployees</members>
         <members>Account.NumberofLocations__c</members>
+        <members>Account.OperatingHoursId</members>
+        <members>Account.OwnerId</members>
+        <members>Account.Ownership</members>
+        <members>Account.ParentId</members>
+        <members>Account.Phone</members>
+        <members>Account.Rating</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
+        <members>Account.ShippingAddress</members>
+        <members>Account.Sic</members>
+        <members>Account.SicDesc</members>
+        <members>Account.Site</members>
+        <members>Account.TickerSymbol</members>
+        <members>Account.Tier</members>
+        <members>Account.Tradestyle</members>
+        <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Account.Website</members>
+        <members>Account.YearStarted</members>
         <members>Account.f1__c</members>
+        <members>Account.obj2__c</members>
         <members>AccountAPP1__c.Appf1__c</members>
         <members>AcntrObj1__c.AccFt1s__c</members>
         <members>AcntrObj1__c.AcntrOrg2F1__c</members>
@@ -413,10 +445,31 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Automated_email_on_QLI_Onduo_product_Created_Updated</members>
         <members>Pradeep</members>
         <members>QuoteLineItem</members>
         <members>TestFlowLabel1</members>
         <name>Flow</name>
+    </types>
+    <types>
+        <members>Account.AllAccounts</members>
+        <members>Account.MyAccounts</members>
+        <members>Account.NewLastWeek</members>
+        <members>Account.NewThisWeek</members>
+        <members>Account.PlatinumandGoldSLACustomers</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Account.Account_rule_test1111</members>
+        <members>Account.Rule11</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
+        <members>Account.Billing</members>
+        <name>WebLink</name>
     </types>
 </Package>
