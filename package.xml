@@ -40,8 +40,42 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.AccountNumber</members>
+        <members>Account.AccountSource</members>
+        <members>Account.Active10__c</members>
+        <members>Account.Active11__c</members>
+        <members>Account.Active12__c</members>
+        <members>Account.Active13__c</members>
+        <members>Account.Active14__c</members>
+        <members>Account.Active15__c</members>
+        <members>Account.Active16__c</members>
+        <members>Account.Active17__c</members>
+        <members>Account.Active18__c</members>
+        <members>Account.Active19__c</members>
+        <members>Account.Active1__c</members>
+        <members>Account.Active20__c</members>
+        <members>Account.Active21__c</members>
+        <members>Account.Active22__c</members>
+        <members>Account.Active23__c</members>
+        <members>Account.Active24__c</members>
+        <members>Account.Active25__c</members>
+        <members>Account.Active2__c</members>
+        <members>Account.Active3__c</members>
+        <members>Account.Active4__c</members>
+        <members>Account.Active5__c</members>
+        <members>Account.Active6__c</members>
+        <members>Account.Active7__c</members>
+        <members>Account.Active8__c</members>
+        <members>Account.Active9__c</members>
         <members>Account.Active__c</members>
+        <members>Account.AnnualRevenue</members>
+        <members>Account.BillingAddress</members>
+        <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
+        <members>Account.DandbCompanyId</members>
+        <members>Account.Description</members>
+        <members>Account.DunsNumber</members>
+        <members>Account.Fax</members>
         <members>Account.Field10288__c</members>
         <members>Account.Field10329__c</members>
         <members>Account.Field10422__c</members>
@@ -307,11 +341,33 @@
         <members>Account.Field9741__c</members>
         <members>Account.Field9824__c</members>
         <members>Account.Field9848__c</members>
+        <members>Account.Industry</members>
+        <members>Account.Jigsaw</members>
+        <members>Account.NaicsCode</members>
+        <members>Account.NaicsDesc</members>
+        <members>Account.Name</members>
+        <members>Account.NumberOfEmployees</members>
         <members>Account.NumberofLocations__c</members>
+        <members>Account.OperatingHoursId</members>
+        <members>Account.OwnerId</members>
+        <members>Account.Ownership</members>
+        <members>Account.ParentId</members>
+        <members>Account.Phone</members>
+        <members>Account.Rating</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
+        <members>Account.ShippingAddress</members>
+        <members>Account.Sic</members>
+        <members>Account.SicDesc</members>
+        <members>Account.Site</members>
+        <members>Account.TickerSymbol</members>
+        <members>Account.Tier</members>
+        <members>Account.Tradestyle</members>
+        <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Account.Website</members>
+        <members>Account.YearStarted</members>
         <members>Account.label1155__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
@@ -723,6 +779,18 @@
         <members>rBAG__c.Field15323__c</members>
         <members>rBAG__c.Field30302__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Account.AllAccounts</members>
+        <members>Account.MyAccounts</members>
+        <members>Account.NewLastWeek</members>
+        <members>Account.NewThisWeek</members>
+        <members>Account.PlatinumandGoldSLACustomers</members>
+        <name>ListView</name>
     </types>
     <types>
         <members>Clone121_profilePasswordPolicy1609243982143</members>
