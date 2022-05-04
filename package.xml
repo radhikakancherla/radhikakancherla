@@ -162,6 +162,8 @@
         <members>Account.f1__c</members>
         <members>Account.obj2__c</members>
         <members>AccountAPP1__c.Appf1__c</members>
+        <members>AccountCleanInfo.Industry</members>
+        <members>AccountCleanInfo.Ownership</members>
         <members>AcntrObj1__c.AccFt1s__c</members>
         <members>AcntrObj1__c.AcntrOrg2F1__c</members>
         <members>AcntrObj1__c.AcntrOrg3F1__c</members>
@@ -446,6 +448,7 @@
     </types>
     <types>
         <members>Account</members>
+        <members>AccountCleanInfo</members>
         <name>CustomObject</name>
     </types>
     <types>
