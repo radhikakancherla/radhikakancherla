@@ -369,6 +369,7 @@
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
         <members>Account.label1155__c</members>
+        <members>Account.obj2__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -1126,6 +1127,11 @@
     <types>
         <members>SiteSamples</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Account.Account_rule_test1111</members>
+        <members>Account.Rule11</members>
+        <name>ValidationRule</name>
     </types>
     <types>
         <members>Account.Billing</members>

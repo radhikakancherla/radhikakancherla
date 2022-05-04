@@ -15,11 +15,6 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>CallHighlightAction</actionName>
-        <formFactor>Small</formFactor>
-        <type>Default</type>
-    </actionOverrides>
-    <actionOverrides>
         <actionName>CancelEdit</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -2682,6 +2677,12 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>obj2__c</fullName>
+        <externalId>false</externalId>
+        <label>obj2</label>
+        <type>AutoNumber</type>
+    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
         <filterScope>Everything</filterScope>
@@ -2741,6 +2742,22 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Account_rule_test1111</fullName>
+        <active>true</active>
+        <errorConditionFormula>BEGINS(Name, &apos;eswar&apos;)</errorConditionFormula>
+        <errorMessage>Name begins with eswar</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Rule11</fullName>
+        <active>true</active>
+        <description>Validates that the Account Number is numeric if not blank.</description>
+        <errorConditionFormula>AND(
+   NOT(ISBLANK(AccountNumber)),
+   NOT(ISNUMBER(AccountNumber))
+)</errorConditionFormula>
+        <errorMessage>Account Number is not numeric.</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>
